@@ -5,11 +5,6 @@ import java.util.Map;
 
 public class LeftViewOfTree {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 	class Node
 	{
 	    int data;
